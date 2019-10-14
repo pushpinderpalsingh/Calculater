@@ -1,0 +1,30 @@
+#parent{
+    width: 60%;
+    height: 70%;
+    background-color: skyblue ;
+    display: inline-block;
+    color: white;
+}
+#display{
+display: inline-block;
+height: 15vh;
+width: 100%;
+background-color: cornflowerblue;
+margin: 0.5em;
+margin-left: 0%;
+margin-top: 0%;
+color: white;
+}
+#text{
+    font-size: 5rem;
+    margin-left: 16vh;
+    margin-top: 1.5vh;
+}
+.number{
+    width: 12vw;
+    height: 10vh;
+    background-color: cornflowerblue;
+   display: inline-block;
+   color: white;
+   margin: 0.1em;
+}
